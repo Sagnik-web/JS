@@ -55,4 +55,4 @@ const allObj = {
 // Object.freeze(obj)
 // obj.name = "New"
 
-console.log(obj);
+console.log(Object.entries(obj));
